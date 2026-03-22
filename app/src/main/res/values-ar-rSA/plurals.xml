@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <plurals name="patch_count">
+        <item quantity="one">%d تصحيح</item>
+        <item quantity="other">%d تصحيحات</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="one">%d محدد</item>
+        <item quantity="two">%d محددان</item>
+        <item quantity="few">%d محددة</item>
+        <item quantity="many">%d محددة</item>
+        <item quantity="other">%d محددة</item>
+    </plurals>
+</resources>
